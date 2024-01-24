@@ -1,3 +1,0 @@
-def func():
-from i in range(5):
-print(i)
